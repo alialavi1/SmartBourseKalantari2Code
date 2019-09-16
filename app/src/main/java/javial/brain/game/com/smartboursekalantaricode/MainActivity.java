@@ -116,6 +116,7 @@ public class MainActivity extends AppCompatActivity  {
                             movieListModel.setYear(c.getString("Year"));
                             movieListModel.setPoster(c.getString("Poster"));
 
+                            
                             // adding Movie to Movie list
                             movieListModels.add(movieListModel);
 

@@ -77,9 +77,6 @@ public class InfoActivity extends AppCompatActivity {
     private String Website;
     private String Response;
 
-    private String source1,source2,source3;
-    private String value1,value2,value3;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
